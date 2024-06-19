@@ -16,3 +16,42 @@
 [![](https://visitcount.itsvg.in/api?id=wahyuafif19&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Kesimpulan 
+*JOBSHEET 1 
+Struktur data adalah cara untuk mengorganisasi dan menyimpan data agar dapat diakses dan dimodifikasi secara efisien. Struktur data yang berbeda menyediakan cara yang berbeda untuk mengelola dan memanipulasi data, seperti array, linked list, stack, queue, tree, dan graph. Setiap struktur data memiliki karakteristik dan kegunaannya masing-masing, sehingga pemilihan struktur data yang tepat sangat penting untuk efisiensi algoritma dan kinerja program. Pemahaman mendalam tentang struktur data memungkinkan pengembang untuk memilih solusi yang paling efektif untuk masalah tertentu dan mengoptimalkan penggunaan sumber daya komputasi.
+
+*JOBSHEET 2
+Array: Struktur data yang menyimpan elemen-elemen sejenis dalam urutan yang terindeks. Memudahkan akses ke data dengan menggunakan indeksnya.
+
+Pointer: Variabel yang menyimpan alamat memori dari variabel lain. Digunakan untuk mengakses dan memanipulasi data secara langsung dalam memori.
+
+Structure: Kumpulan variabel yang digabungkan dalam satu unit logis. Memungkinkan pengelompokan data heterogen yang terkait dalam satu struktur yang dapat diakses dan dimanipulasi bersama-sama.
+
+*JOBSHEET 3
+Single linked list adalah struktur data linear yang terdiri dari simpul-simpul yang saling terhubung melalui referensi atau pointer. Setiap simpul memiliki data dan satu pointer yang menunjuk ke simpul berikutnya dalam urutan linear. Operasi pada single linked list termasuk penambahan, penghapusan, pencarian, dan traversal (penelusuran). Kekurangan dari single linked list adalah bahwa untuk mengakses elemen secara acak, perlu dilakukan traversal dari awal.
+
+*JOBSHEET 4
+Doubly linked list adalah struktur data linear di mana setiap elemen disimpan bersama dengan dua tautan atau pointer, yaitu ke elemen sebelumnya dan ke elemen berikutnya dalam urutan. Ini memungkinkan traversal maju dan mundur dengan mudah, namun memerlukan lebih banyak ruang untuk menyimpan pointer tambahan dibandingkan dengan singly linked list.
+
+*JOBSHEET 5
+Double linked list adalah struktur data linear di mana setiap node memiliki dua pointer, yaitu pointer yang menunjuk ke node sebelumnya (previous) dan pointer yang menunjuk ke node berikutnya (next). Ini memungkinkan traversal maju dan mundur di dalam list dengan mudah, namun membutuhkan lebih banyak ruang untuk menyimpan pointer tambahan.
+
+Circular linked list adalah jenis linked list di mana node terakhir dari list menunjuk kembali ke node pertama, membentuk lingkaran atau cincin. Hal ini memungkinkan traversal siklik di dalam list tanpa harus mengakhiri perjalanan di node terakhir, dan dapat digunakan untuk implementasi struktur data seperti buffer cincin atau antrian berputar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
