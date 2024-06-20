@@ -19,6 +19,8 @@
 
 # Kesimpulan 
 *JOBSHEET 1 
+
+
 Struktur data adalah cara untuk mengorganisasi dan menyimpan data agar dapat diakses dan dimodifikasi secara efisien. Struktur data yang berbeda menyediakan cara yang berbeda untuk mengelola dan memanipulasi data, seperti array, linked list, stack, queue, tree, dan graph. Setiap struktur data memiliki karakteristik dan kegunaannya masing-masing, sehingga pemilihan struktur data yang tepat sangat penting untuk efisiensi algoritma dan kinerja program. Pemahaman mendalam tentang struktur data memungkinkan pengembang untuk memilih solusi yang paling efektif untuk masalah tertentu dan mengoptimalkan penggunaan sumber daya komputasi.
 
 *JOBSHEET 2
