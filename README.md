@@ -46,7 +46,7 @@ Struktur data adalah cara untuk mengorganisasi dan menyimpan data agar dapat dia
 Array adalah kumpulan elemen yang memiliki tipe data yang sama, disusun dalam memori secara berurutan, dan dapat diakses menggunakan indeks. Pointers adalah variabel yang menyimpan alamat memori dari variabel lain, memungkinkan akses dan manipulasi data secara efisien. Struct adalah tipe data yang memungkinkan pengelompokan variabel dari tipe data yang berbeda di bawah satu nama, memfasilitasi pengelolaan data yang lebih kompleks dan terorganisir.
 
 
-##JOBSHEET 3 Single Linked List
+## JOBSHEET 3 Single Linked List
 
 Single linked list adalah struktur data linear yang terdiri dari simpul-simpul yang saling terhubung melalui referensi atau pointer. Setiap simpul memiliki data dan satu pointer yang menunjuk ke simpul berikutnya dalam urutan linear. Operasi pada single linked list termasuk penambahan, penghapusan, pencarian, dan traversal (penelusuran). Kekurangan dari single linked list adalah bahwa untuk mengakses elemen secara acak, perlu dilakukan traversal dari awal.
 
