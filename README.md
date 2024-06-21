@@ -20,8 +20,9 @@
 
 # Kesimpulan Praktikum Struktur Data 
 
-## Tentang Diri Saya ![githup](https://github.com/wahyuafif19/Praktikum_Struktur_Data/assets/145022805/658f3c35-6375-422b-9b74-71c101dacf4c)
-ogo](.jpg)
+## Tentang Diri Saya 
+![githup](https://github.com/wahyuafif19/Praktikum_Struktur_Data/assets/145022805/658f3c35-6375-422b-9b74-71c101dacf4c)
+
 
 Hai, Saya Wahyu Abdil Afif saya seorang mahasiswa informatika UNP,
 saya memiliki tekad yang kuat dalam dunia komputer atau perangkat lunak, saya ingin menjadi seorang yang ahli di bidang IT.
