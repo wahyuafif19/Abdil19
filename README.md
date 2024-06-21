@@ -20,6 +20,13 @@
 
 # Kesimpulan Praktikum Struktur Data 
 
+## Tentang Diri Saya ![githup](https://github.com/wahyuafif19/Praktikum_Struktur_Data/assets/145022805/658f3c35-6375-422b-9b74-71c101dacf4c)
+ogo](.jpg)
+
+Hai, Saya Wahyu Abdil Afif saya seorang mahasiswa informatika UNP,
+saya memiliki tekad yang kuat dalam dunia komputer atau perangkat lunak, saya ingin menjadi seorang yang ahli di bidang IT.
+Sekian Terima kasih 
+
 ## Daftar Isi
 
 - [JOBSHEET 1 Pengenalan Struktur Data](#JOBSHEET-1-Pengenalan-Struktur-Data)
@@ -35,6 +42,12 @@
 - [JOBSHEET 11 Linear and Binary Search](#JOBSHEET-11-Linear-and-Binary-Search)
 - [JOBSHEET 12 Tree](#JOBSHEET-12-Tree)
 - [JOBSHEET 13 Graphs](#JOBSHEET-13-Graphs)
+
+## Kontak
+-[Email:wahyuabdilafif19@gmail.com](#Nama:-Wahyu-Abdil-Afif)
+-[Githup:wahyuafif19](#Githup:wahyuafif19)
+-[Instagram:wahyabdlafif19](#Instagram:whyabdlafif19)
+
 
 
 ## JOBSHEET 1 Pengenalan Struktur Data
