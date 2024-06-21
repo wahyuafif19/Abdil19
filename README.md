@@ -18,84 +18,72 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Kesimpulan Praktikum Struktur Data  
-*JOBSHEET 1 
+*JOBSHEET 1 Pengenalan Struktur Data
 
 
 Struktur data adalah cara untuk mengorganisasi dan menyimpan data agar dapat diakses dan dimodifikasi secara efisien. Struktur data yang berbeda menyediakan cara yang berbeda untuk mengelola dan memanipulasi data, seperti array, linked list, stack, queue, tree, dan graph. Setiap struktur data memiliki karakteristik dan kegunaannya masing-masing, sehingga pemilihan struktur data yang tepat sangat penting untuk efisiensi algoritma dan kinerja program. Pemahaman mendalam tentang struktur data memungkinkan pengembang untuk memilih solusi yang paling efektif untuk masalah tertentu dan mengoptimalkan penggunaan sumber daya komputasi.
 
-*JOBSHEET 2
+*JOBSHEET 2 Array, Pointer dan Stuct
 
-Array: Struktur data yang menyimpan elemen-elemen sejenis dalam urutan yang terindeks. Memudahkan akses ke data dengan menggunakan indeksnya.
+Array adalah kumpulan elemen yang memiliki tipe data yang sama, disusun dalam memori secara berurutan, dan dapat diakses menggunakan indeks. Pointers adalah variabel yang menyimpan alamat memori dari variabel lain, memungkinkan akses dan manipulasi data secara efisien. Struct adalah tipe data yang memungkinkan pengelompokan variabel dari tipe data yang berbeda di bawah satu nama, memfasilitasi pengelolaan data yang lebih kompleks dan terorganisir.
 
-Pointer: Variabel yang menyimpan alamat memori dari variabel lain. Digunakan untuk mengakses dan memanipulasi data secara langsung dalam memori.
 
-Structure: Kumpulan variabel yang digabungkan dalam satu unit logis. Memungkinkan pengelompokan data heterogen yang terkait dalam satu struktur yang dapat diakses dan dimanipulasi bersama-sama.
-
-*JOBSHEET 3
+*JOBSHEET 3 Single Linked List
 
 Single linked list adalah struktur data linear yang terdiri dari simpul-simpul yang saling terhubung melalui referensi atau pointer. Setiap simpul memiliki data dan satu pointer yang menunjuk ke simpul berikutnya dalam urutan linear. Operasi pada single linked list termasuk penambahan, penghapusan, pencarian, dan traversal (penelusuran). Kekurangan dari single linked list adalah bahwa untuk mengakses elemen secara acak, perlu dilakukan traversal dari awal.
 
-*JOBSHEET 4
+*JOBSHEET 4 Doubly Linked List
 
 Doubly linked list adalah struktur data linear di mana setiap elemen disimpan bersama dengan dua tautan atau pointer, yaitu ke elemen sebelumnya dan ke elemen berikutnya dalam urutan. Ini memungkinkan traversal maju dan mundur dengan mudah, namun memerlukan lebih banyak ruang untuk menyimpan pointer tambahan dibandingkan dengan singly linked list.
 
-*JOBSHEET 5
+*JOBSHEET 5 Circular Linked List
 
 Double linked list adalah struktur data linear di mana setiap node memiliki dua pointer, yaitu pointer yang menunjuk ke node sebelumnya (previous) dan pointer yang menunjuk ke node berikutnya (next). Ini memungkinkan traversal maju dan mundur di dalam list dengan mudah, namun membutuhkan lebih banyak ruang untuk menyimpan pointer tambahan.
 
 Circular linked list adalah jenis linked list di mana node terakhir dari list menunjuk kembali ke node pertama, membentuk lingkaran atau cincin. Hal ini memungkinkan traversal siklik di dalam list tanpa harus mengakhiri perjalanan di node terakhir, dan dapat digunakan untuk implementasi struktur data seperti buffer cincin atau antrian berputar.
 
-*JOBSHEET 6
+*JOBSHEET 6 Stack
 
-Stack adalah struktur data yang beroperasi berdasarkan prinsip Last In, First Out (LIFO), di mana elemen terakhir yang dimasukkan adalah elemen pertama yang akan dikeluarkan. Operasi utama pada stack adalah:
+Stack adalah struktur data yang beroperasi berdasarkan prinsip Last In, First Out (LIFO), di mana elemen terakhir yang dimasukkan adalah elemen pertama yang akan dikeluarkan.
 
-Push: Menambahkan elemen ke bagian atas stack.
-Pop: Menghapus elemen dari bagian atas stack.
-Peek/Top: Melihat elemen di bagian atas stack tanpa menghapusnya.
-IsEmpty: Memeriksa apakah stack kosong.
+Pus untuk Menambahkan elemen ke bagian atas stack.
+Pop untuk Menghapus elemen dari bagian atas stack.
+Peek/Top untuk Melihat elemen di bagian atas stack tanpa menghapusnya.
+IsEmpty untuk Memeriksa apakah stack kosong.
 Stack banyak digunakan dalam berbagai aplikasi, seperti dalam implementasi fungsi rekursif, penanganan ekspresi aritmatika, dan navigasi browser (riwayat halaman).
 
-*JOBSHEET 7
+*JOBSHEET 7 Queue
 
 Queue adalah struktur data linier yang mengikuti prinsip FIFO (First In, First Out), di mana elemen yang pertama kali dimasukkan akan menjadi elemen pertama yang dikeluarkan. Queue digunakan untuk mengatur antrian dalam berbagai konteks, seperti pemrosesan tugas dalam sistem operasi, penjadwalan tugas, dan manajemen data dalam jaringan. Operasi utama dalam queue meliputi enqueue (menambahkan elemen ke belakang antrian) dan dequeue (menghapus elemen dari depan antrian). Queue dapat diimplementasikan menggunakan array, linked list, atau struktur data lainnya.
 
-*JOBSHEET 8
+*JOBSHEET 8 Bubble and Insertion Sort
 
-Bubble Sort
-Cara Kerja: Membandingkan pasangan elemen yang berdekatan dan menukarnya jika berada dalam urutan yang salah, berulang hingga tidak ada lagi yang perlu ditukar.
-Kompleksitas Waktu: O(n²) pada kasus terburuk dan rata-rata, di mana n adalah jumlah elemen.
-Kelebihan: Implementasi sangat sederhana dan mudah dipahami.
-Kekurangan: Tidak efisien untuk jumlah data yang besar.
+Bubble Sort dan Insertion Sort adalah algoritma pengurutan dasar yang digunakan untuk menyusun elemen-elemen dalam suatu list. Bubble Sort bekerja dengan cara membandingkan setiap pasangan elemen yang berdekatan dan menukarnya jika mereka berada dalam urutan yang salah, proses ini diulang terus menerus hingga tidak ada lagi elemen yang perlu ditukar. Sementara itu, Insertion Sort mengurutkan elemen-elemen dengan cara membagi list menjadi dua bagian: bagian yang sudah diurutkan dan bagian yang belum diurutkan. Elemen dari bagian yang belum diurutkan diambil satu per satu dan ditempatkan pada posisi yang tepat dalam bagian yang sudah diurutkan. Kedua algoritma ini sederhana dan mudah diimplementasikan, tetapi kurang efisien untuk list yang besar karena kompleksitas waktu yang tinggi, yaitu O(n^2). Meskipun demikian, Insertion Sort sering kali lebih cepat daripada Bubble Sort untuk list yang hampir terurut.
 
-Insertion Sort
-Cara Kerja: Membagi array menjadi dua bagian: bagian yang sudah diurutkan dan bagian yang belum diurutkan. Elemen dari bagian yang belum diurutkan dipindahkan satu per satu ke posisi yang tepat dalam bagian yang sudah diurutkan.
-Kompleksitas Waktu: O(n²) pada kasus terburuk dan rata-rata, tetapi O(n) pada kasus terbaik (jika array sudah hampir terurut).
-Kelebihan: Efisien untuk dataset kecil atau dataset yang sudah hampir terurut.
-Kekurangan: Tidak efisien untuk dataset besar.
 
-*JOBSHEET 9
+*JOBSHEET 9 Selection and Merge Sort
 
 Selection sort dan merge sort adalah dua algoritma pengurutan dengan pendekatan yang berbeda. Selection sort bekerja dengan cara memilih elemen terkecil dari daftar yang belum terurut dan menukarnya dengan elemen pertama dari daftar tersebut, kemudian melanjutkan proses ini untuk elemen kedua, ketiga, dan seterusnya sampai daftar terurut sepenuhnya. Algoritma ini sederhana tetapi memiliki kompleksitas waktu O(n^2), sehingga kurang efisien untuk daftar yang besar.
 
 Merge sort, di sisi lain, adalah algoritma pengurutan berbasis divide-and-conquer. Algoritma ini membagi daftar menjadi dua bagian, mengurutkan masing-masing bagian secara rekursif, dan kemudian menggabungkannya kembali menjadi daftar yang terurut. Merge sort lebih efisien dengan kompleksitas waktu O(n log n) dan kinerja yang konsisten, menjadikannya pilihan yang baik untuk daftar yang besar.
 
-*JOBSHEET 10
+*JOBSHEET 10 Shell and Quick Sort 
 
 Shell sort adalah algoritma pengurutan yang mengembangkan bubble sort dengan menggunakan gap yang mengecil secara bertahap untuk melakukan pengurutan sebagian elemen sebelum melakukan pengurutan secara penuh. Metode ini efektif mengurangi jumlah pertukaran yang diperlukan, meningkatkan efisiensi pada data yang hampir terurut.
 
 Quick sort adalah algoritma pengurutan yang menggunakan strategi divide and conquer, dengan memilih elemen pivot dan membagi array menjadi dua sub-array, lalu mengurutkan sub-array tersebut secara rekursif. Quick sort terkenal karena efisiensinya pada kebanyakan kasus, meskipun kinerjanya bisa menurun pada data yang sudah terurut atau memiliki banyak elemen duplikat jika tidak diimplementasikan dengan baik.
 
-*JOBSHEET 11
+*JOBSHEET 11 Linear and Binary Search
 
 Linear search adalah metode pencarian data yang sederhana di mana setiap elemen dalam daftar diperiksa satu per satu hingga elemen yang dicari ditemukan atau seluruh daftar telah diperiksa. Metode ini efisien untuk daftar kecil atau jika elemen yang dicari berada di awal daftar, tetapi menjadi tidak efisien untuk daftar besar karena waktu pencariannya bersifat linier.
 
 Binary search adalah metode pencarian yang lebih efisien untuk daftar yang sudah terurut. Metode ini bekerja dengan membagi daftar menjadi dua bagian secara berulang, membandingkan elemen tengah dengan elemen yang dicari. Jika elemen yang dicari lebih kecil dari elemen tengah, pencarian dilanjutkan pada bagian kiri daftar, sebaliknya pada bagian kanan jika lebih besar. Proses ini terus diulangi hingga elemen ditemukan atau daftar tidak bisa dibagi lagi. Binary search jauh lebih efisien daripada linear search untuk daftar besar karena waktu pencariannya bersifat logaritmik.
 
-*JOBSHEET 12
+*JOBSHEET 12 Tree
 
 Tree dalam struktur data adalah struktur hierarkis yang terdiri dari node-node yang saling terhubung dengan hubungan induk-anak. Setiap tree memiliki satu node utama yang disebut root, dan setiap node dapat memiliki sejumlah node anak. Node tanpa anak disebut daun. Tree digunakan untuk merepresentasikan data yang memiliki hubungan hierarkis, seperti file sistem, struktur organisasi, dan ekspresi matematika. Beberapa jenis tree yang umum adalah binary tree, binary search tree, AVL tree, dan B-tree, masing-masing dengan karakteristik dan kegunaan spesifik. Tree memungkinkan operasi pencarian, penyisipan, dan penghapusan dilakukan dengan efisien.
 
-*JOBSHEET 13
+*JOBSHEET 13 Graphs
 
 Graphs dalam struktur data adalah representasi abstrak dari hubungan antara objek-objek. Mereka terdiri dari simpul (nodes) dan tepi (edges) yang menghubungkan simpul-simpul tersebut. Graphs dapat diarahkan (directed) atau tidak diarahkan (undirected). Mereka digunakan untuk memodelkan berbagai masalah seperti jaringan sosial, jaringan komputer, dan rute transportasi. Beberapa algoritma umum yang digunakan pada graphs termasuk BFS (Breadth-First Search), DFS (Depth-First Search), dan algoritma Dijkstra untuk menemukan jalur terpendek. Struktur data graph sangat penting dalam ilmu komputer karena kemampuannya untuk menangani dan memodelkan hubungan kompleks antara data.
 
