@@ -44,12 +44,10 @@ Sekian Terima kasih
 - [JOBSHEET 12 Tree](#JOBSHEET-12-Tree)
 - [JOBSHEET 13 Graphs](#JOBSHEET-13-Graphs)
 
-## Kontak
--[Email:wahyuabdilafif19@gmail.com](#Email:wahyuabdilafif19@gmail.com)
-
--[Githup:wahyuafif19](#Githup:wahyuafif19)
-
--[Instagram:wahyabdlafif19](#Instagram:whyabdlafif19)
+### Opsional: Kontak
+ [Email:wahyuabdilafif19@gmail.com](#Email:wahyuabdilafif19@gmail.com)
+ [Githup:wahyuafif19](#Githup:wahyuafif19)
+ [Instagram:wahyabdlafif19](#Instagram:whyabdlafif19)
 
 
 
