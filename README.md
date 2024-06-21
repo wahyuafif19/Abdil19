@@ -44,7 +44,7 @@ Sekian Terima kasih
 - [JOBSHEET 12 Tree](#JOBSHEET-12-Tree)
 - [JOBSHEET 13 Graphs](#JOBSHEET-13-Graphs)
 
-### Opsional: Kontak
+### Opsional: Kontak Gantilah placeholder (`wahyuabdilafif19@gmail.com`, `https://www.githup.com/in/wahyuafif19`, `https://instagram.com/whyabdlafif19`) dengan informasi kontak Anda yang sebenarnya. Setelah selesai, tambahkan file ini ke repository GitHub Anda.
  [Email:wahyuabdilafif19@gmail.com](#Email:wahyuabdilafif19@gmail.com)
  [Githup:wahyuafif19](#Githup:wahyuafif19)
  [Instagram:wahyabdlafif19](#Instagram:whyabdlafif19)
