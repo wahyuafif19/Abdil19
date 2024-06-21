@@ -45,8 +45,10 @@ Sekian Terima kasih
 - [JOBSHEET 13 Graphs](#JOBSHEET-13-Graphs)
 
 ## Kontak
--[Email:wahyuabdilafif19@gmail.com](#Nama:-Wahyu-Abdil-Afif)
+-[Email:wahyuabdilafif19@gmail.com](#Email:wahyuabdilafif19@gmail.com)
+
 -[Githup:wahyuafif19](#Githup:wahyuafif19)
+
 -[Instagram:wahyabdlafif19](#Instagram:whyabdlafif19)
 
 
