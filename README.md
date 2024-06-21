@@ -87,6 +87,57 @@ Tree dalam struktur data adalah struktur hierarkis yang terdiri dari node-node y
 
 Graphs dalam struktur data adalah representasi abstrak dari hubungan antara objek-objek. Mereka terdiri dari simpul (nodes) dan tepi (edges) yang menghubungkan simpul-simpul tersebut. Graphs dapat diarahkan (directed) atau tidak diarahkan (undirected). Mereka digunakan untuk memodelkan berbagai masalah seperti jaringan sosial, jaringan komputer, dan rute transportasi. Beberapa algoritma umum yang digunakan pada graphs termasuk BFS (Breadth-First Search), DFS (Depth-First Search), dan algoritma Dijkstra untuk menemukan jalur terpendek. Struktur data graph sangat penting dalam ilmu komputer karena kemampuannya untuk menangani dan memodelkan hubungan kompleks antara data.
 
+# Judul Proyek
+
+Deskripsi singkat tentang proyekmu di sini.
+
+## Daftar Isi
+
+- [Judul Bagian 1](#judul-bagian-1)
+- [Judul Bagian 2](#judul-bagian-2)
+- [Instalasi](#instalasi)
+- [Cara Penggunaan](#cara-penggunaan)
+- [Kontribusi](#kontribusi)
+- [Lisensi](#lisensi)
+
+## Judul Bagian 1
+
+Deskripsi atau penjelasan lebih lanjut tentang bagian pertama dari proyekmu.
+
+## Judul Bagian 2
+
+Deskripsi atau penjelasan lebih lanjut tentang bagian kedua dari proyekmu.
+
+## Instalasi
+
+Petunjuk tentang cara menginstal atau menyiapkan proyek ini. Termasuk prasyarat jika ada, dan langkah-langkah instalasi yang diperlukan.
+
+## Cara Penggunaan
+
+Contoh atau petunjuk tentang cara menggunakan proyek ini. Kamu bisa menyertakan contoh kode atau gambaran penggunaan yang jelas.
+
+## Kontribusi
+
+Petunjuk tentang cara berkontribusi pada proyek ini. Sertakan langkah-langkah tentang bagaimana seseorang dapat berpartisipasi dalam pengembangan proyekmu. Misalnya:
+
+- Cara berkontribusi
+- Panduan kode etik
+- Langkah-langkah untuk menyarankan fitur baru
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [Nama Lisensi]. Lihat file `LICENSE` untuk detail lebih lanjut.
+
+---
+
+### Opsional: Kontak
+
+Jika proyekmu terbuka untuk umpan balik atau pertanyaan dari pengguna lain, kamu bisa menyertakan cara untuk menghubungi kamu di sini.
+
+### Opsional: Pengakuan
+
+Jika ada pihak-pihak yang kamu ingin berterima kasih atas kontribusinya pada proyek ini, kamu bisa menyertakan bagian pengakuan di bagian akhir README.
+
 
 
 
